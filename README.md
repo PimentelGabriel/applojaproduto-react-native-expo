@@ -5,16 +5,16 @@ Exemplo de app para vender produtos online escrito em react-native e expo.
 
 <h4>Tela 01</4>
 
-<img src='./printTelas/Screenshot_1616114125.png'/>
+<img src='./printTelas/Screenshot_1616114125.png' height="150"/>
 
-<img src='./printTelas/Screenshot_1616115467.png'/>
+<img src='./printTelas/Screenshot_1616115467.png' height="150"/>
 
 <h4>Tela 02</4>
 
-<img src="./printTelas/Screenshot_1616114135.png"/>
+<img src="./printTelas/Screenshot_1616114135.png" height="150"/>
 
 <h4>Tela 3</h4>
 
-<img src="./printTelas/Screenshot_1616114142.png"/>
+<img src="./printTelas/Screenshot_1616114142.png" height="150"/>
 
-<img src="./printTelas/Screenshot_1616114146.png"/>
+<img src="./printTelas/Screenshot_1616114146.png" height="150"/>
