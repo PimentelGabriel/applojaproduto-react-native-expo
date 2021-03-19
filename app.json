@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "Av2AppLoja",
-    "slug": "Av2AppLoja",
-    "version": "1.0.0",
+    "name": "Loja do Pimentel",
+    "slug": "lojadopimentel",
+    "version": "1.0.1",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.gabrielpimentel.apploja"
     },
     "web": {
       "favicon": "./assets/favicon.png"
